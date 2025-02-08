@@ -7,7 +7,7 @@ simple_classification.ipynb: Main Jupyter Notebook containing data preprocessing
 
 README.md: Documentation for this project.
 
-🔧 Requirements
+Requirements
 
 Ensure you have the following Python libraries installed before running the notebook:
 
