@@ -1,5 +1,5 @@
 # Simple-Logistic-Regression-Model
-This repository contains a Jupyter Notebook for a simple classification task using Python and Pandas. The notebook explores data analysis and visualization using Matplotlib and applies basic classification techniques.
+This repository contains a Jupyter Notebook for a simple classification task using Python and Pandas. The notebook explores data analysis and visualization using Matplotlib and applies basic classification techniques. It classifies whether a student is classified for bagging a job in campus placements or not. 
 
 File Overview
 
